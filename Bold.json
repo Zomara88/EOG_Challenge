@@ -1,0 +1,4064 @@
+{
+    "10/31/2024 12:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 391.4352,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.17612,
+        "Hydrate": null
+    },
+    "10/31/2024 12:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 402.52365000000003,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.17612,
+        "Hydrate": null
+    },
+    "10/31/2024 12:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 380.72775,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.70198,
+        "Hydrate": null
+    },
+    "10/31/2024 12:46:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 382.73955,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.70198,
+        "Hydrate": null
+    },
+    "10/31/2024 1:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 384.86595,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.70198,
+        "Hydrate": null
+    },
+    "10/31/2024 1:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 384.27975000000004,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.70198,
+        "Hydrate": null
+    },
+    "10/31/2024 1:28:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 383.22360000000003,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.70198,
+        "Hydrate": null
+    },
+    "10/31/2024 1:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 378.51959999999997,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.70198,
+        "Hydrate": null
+    },
+    "10/31/2024 2:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 374.74245,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.70198,
+        "Hydrate": null
+    },
+    "10/31/2024 2:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 370.43145,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.70198,
+        "Hydrate": null
+    },
+    "10/31/2024 2:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 364.6467,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.70198,
+        "Hydrate": null
+    },
+    "10/31/2024 2:46:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 356.7471,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.70198,
+        "Hydrate": null
+    },
+    "10/31/2024 2:58:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 348.91725,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.77205,
+        "Hydrate": null
+    },
+    "10/31/2024 3:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 351.435,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 31.71132,
+        "Hydrate": null
+    },
+    "10/31/2024 3:28:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 367.9839,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 31.93819,
+        "Hydrate": null
+    },
+    "10/31/2024 3:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 360.4317,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 31.93819,
+        "Hydrate": null
+    },
+    "10/31/2024 4:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 353.01495,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 31.93819,
+        "Hydrate": null
+    },
+    "10/31/2024 4:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 347.2278,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.27454,
+        "Hydrate": null
+    },
+    "10/31/2024 4:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 387.82695,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.52163,
+        "Hydrate": null
+    },
+    "10/31/2024 4:46:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 391.91819999999996,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.52163,
+        "Hydrate": null
+    },
+    "10/31/2024 4:58:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 391.35405,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.52163,
+        "Hydrate": null
+    },
+    "10/31/2024 5:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 385.34715,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.57308,
+        "Hydrate": null
+    },
+    "10/31/2024 5:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 369.4662,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.57308,
+        "Hydrate": null
+    },
+    "10/31/2024 5:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 364.9056,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.57308,
+        "Hydrate": null
+    },
+    "10/31/2024 6:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 376.30095,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.57308,
+        "Hydrate": null
+    },
+    "10/31/2024 6:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 403.18215,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.57308,
+        "Hydrate": null
+    },
+    "10/31/2024 6:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 372.96254999999996,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.15914,
+        "Hydrate": null
+    },
+    "10/31/2024 6:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 381.4254,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.15914,
+        "Hydrate": null
+    },
+    "10/31/2024 6:58:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 395.61885,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.15914,
+        "Hydrate": null
+    },
+    "10/31/2024 7:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 403.7988,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.95109,
+        "Hydrate": null
+    },
+    "10/31/2024 7:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 380.157,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.74255,
+        "Hydrate": null
+    },
+    "10/31/2024 7:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 383.89305,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.74255,
+        "Hydrate": null
+    },
+    "10/31/2024 8:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 383.85165,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.74255,
+        "Hydrate": null
+    },
+    "10/31/2024 8:16:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 382.32105,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.74255,
+        "Hydrate": null
+    },
+    "10/31/2024 8:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 379.84754999999996,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.74255,
+        "Hydrate": null
+    },
+    "10/31/2024 8:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 375.29715,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.74255,
+        "Hydrate": null
+    },
+    "10/31/2024 8:58:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 371.1993,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.74255,
+        "Hydrate": null
+    },
+    "10/31/2024 9:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 362.82989999999995,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.74255,
+        "Hydrate": null
+    },
+    "10/31/2024 9:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 357.57825,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.74255,
+        "Hydrate": null
+    },
+    "10/31/2024 9:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 347.8146,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.87227,
+        "Hydrate": null
+    },
+    "10/31/2024 10:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 350.36805,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 31.51879,
+        "Hydrate": null
+    },
+    "10/31/2024 10:16:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 366.1869,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 31.93419,
+        "Hydrate": null
+    },
+    "10/31/2024 10:28:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 356.53905,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 31.93419,
+        "Hydrate": null
+    },
+    "10/31/2024 10:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 346.10175,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.21342,
+        "Hydrate": null
+    },
+    "10/31/2024 10:58:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 381.33885,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.59013,
+        "Hydrate": null
+    },
+    "10/31/2024 11:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 388.8678,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.59013,
+        "Hydrate": null
+    },
+    "10/31/2024 11:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 390.71444999999994,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.59013,
+        "Hydrate": null
+    },
+    "10/31/2024 11:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 390.4104,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.59013,
+        "Hydrate": null
+    },
+    "10/31/2024 12:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 392.3283,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.59013,
+        "Hydrate": null
+    },
+    "10/31/2024 12:16:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 375.55305,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.59013,
+        "Hydrate": null
+    },
+    "10/31/2024 12:28:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 378.5421,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.59013,
+        "Hydrate": null
+    },
+    "10/31/2024 12:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 391.3623,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.59013,
+        "Hydrate": null
+    },
+    "10/31/2024 1:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 387.04994999999997,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.59917,
+        "Hydrate": null
+    },
+    "10/31/2024 1:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 392.16345,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.59917,
+        "Hydrate": null
+    },
+    "10/31/2024 1:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 373.47180000000003,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.13345,
+        "Hydrate": null
+    },
+    "10/31/2024 1:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 382.32855,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.13345,
+        "Hydrate": null
+    },
+    "10/31/2024 2:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 388.60875,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.13345,
+        "Hydrate": null
+    },
+    "10/31/2024 2:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 394.09020000000004,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.13345,
+        "Hydrate": null
+    },
+    "10/31/2024 2:28:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 397.12350000000004,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.13345,
+        "Hydrate": null
+    },
+    "10/31/2024 2:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 391.8903,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.13345,
+        "Hydrate": null
+    },
+    "10/31/2024 3:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 391.26240000000007,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.13345,
+        "Hydrate": null
+    },
+    "10/31/2024 3:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 388.79864999999995,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.13345,
+        "Hydrate": null
+    },
+    "10/31/2024 3:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 385.16265,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.13345,
+        "Hydrate": null
+    },
+    "10/31/2024 3:46:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 383.72204999999997,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.13345,
+        "Hydrate": null
+    },
+    "10/31/2024 4:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 377.50425,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.13345,
+        "Hydrate": null
+    },
+    "10/31/2024 4:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 368.84250000000003,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.13345,
+        "Hydrate": null
+    },
+    "10/31/2024 4:28:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 364.9485,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.13345,
+        "Hydrate": null
+    },
+    "10/31/2024 4:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 353.8239,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.13345,
+        "Hydrate": null
+    },
+    "10/31/2024 5:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 346.8498,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.25162,
+        "Hydrate": null
+    },
+    "10/31/2024 5:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 358.07565,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 31.97817,
+        "Hydrate": null
+    },
+    "10/31/2024 5:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 350.64765,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 31.97817,
+        "Hydrate": null
+    },
+    "10/31/2024 5:46:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 347.7393,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.47241,
+        "Hydrate": null
+    },
+    "10/31/2024 5:58:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 389.48670000000004,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.52616,
+        "Hydrate": null
+    },
+    "10/31/2024 6:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 394.1541,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.52616,
+        "Hydrate": null
+    },
+    "10/31/2024 6:28:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 389.46765000000005,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.52616,
+        "Hydrate": null
+    },
+    "10/31/2024 6:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 393.64290000000005,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.52616,
+        "Hydrate": null
+    },
+    "10/31/2024 7:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 380.4375,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.52616,
+        "Hydrate": null
+    },
+    "10/31/2024 7:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 386.4477,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.52616,
+        "Hydrate": null
+    },
+    "10/31/2024 7:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 397.28790000000004,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.52616,
+        "Hydrate": null
+    },
+    "10/31/2024 7:46:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 394.23855,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.56656,
+        "Hydrate": null
+    },
+    "10/31/2024 7:58:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 393.3465,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.56656,
+        "Hydrate": null
+    },
+    "10/31/2024 8:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 378.37739999999997,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.15282,
+        "Hydrate": null
+    },
+    "10/31/2024 8:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 387.57360000000006,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.15282,
+        "Hydrate": null
+    },
+    "10/31/2024 8:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 393.56280000000004,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.15282,
+        "Hydrate": null
+    },
+    "10/31/2024 9:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 395.5602,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.15282,
+        "Hydrate": null
+    },
+    "10/31/2024 9:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 397.34055,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.15282,
+        "Hydrate": null
+    },
+    "10/31/2024 9:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 399.09270000000004,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.15282,
+        "Hydrate": null
+    },
+    "10/31/2024 9:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 395.10029999999995,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.15282,
+        "Hydrate": null
+    },
+    "10/31/2024 9:58:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 392.93145,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.15282,
+        "Hydrate": null
+    },
+    "10/31/2024 10:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 389.11125000000004,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.15282,
+        "Hydrate": null
+    },
+    "10/31/2024 10:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 383.28765,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.15282,
+        "Hydrate": null
+    },
+    "10/31/2024 10:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 378.117,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.15282,
+        "Hydrate": null
+    },
+    "10/31/2024 11:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 369.41429999999997,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.15282,
+        "Hydrate": null
+    },
+    "10/31/2024 11:16:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 362.7906,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.15282,
+        "Hydrate": null
+    },
+    "10/31/2024 11:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 354.6297,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.15282,
+        "Hydrate": null
+    },
+    "10/31/2024 11:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 347.41470000000004,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.20716,
+        "Hydrate": null
+    },
+    "10/31/2024 11:58:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 350.05965,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 31.99441,
+        "Hydrate": null
+    },
+    "11/01/2024 12:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 349.3515,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.12311,
+        "Hydrate": null
+    },
+    "11/01/2024 12:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 356.76345,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.12311,
+        "Hydrate": null
+    },
+    "11/01/2024 12:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 358.99424999999997,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.12311,
+        "Hydrate": null
+    },
+    "11/01/2024 1:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 368.18475,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.12311,
+        "Hydrate": null
+    },
+    "11/01/2024 1:16:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 356.07585,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.12311,
+        "Hydrate": null
+    },
+    "11/01/2024 1:28:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 348.6102,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.2995,
+        "Hydrate": null
+    },
+    "11/01/2024 1:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 353.4846,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.46087,
+        "Hydrate": null
+    },
+    "11/01/2024 1:58:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 399.15599999999995,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.54506,
+        "Hydrate": null
+    },
+    "11/01/2024 2:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 381.16470000000004,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.44286,
+        "Hydrate": null
+    },
+    "11/01/2024 2:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 382.07295,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.44286,
+        "Hydrate": null
+    },
+    "11/01/2024 2:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 391.18815,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.44286,
+        "Hydrate": null
+    },
+    "11/01/2024 3:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 404.19825000000003,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.44286,
+        "Hydrate": null
+    },
+    "11/01/2024 3:16:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 375.6963,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.96547,
+        "Hydrate": null
+    },
+    "11/01/2024 3:28:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 384.58799999999997,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.96547,
+        "Hydrate": null
+    },
+    "11/01/2024 3:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 387.17805,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.96547,
+        "Hydrate": null
+    },
+    "11/01/2024 4:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 388.9983,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.96547,
+        "Hydrate": null
+    },
+    "11/01/2024 4:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 390.19409999999993,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.96547,
+        "Hydrate": null
+    },
+    "11/01/2024 4:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 389.25870000000003,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.96547,
+        "Hydrate": null
+    },
+    "11/01/2024 4:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 386.81445,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.96547,
+        "Hydrate": null
+    },
+    "11/01/2024 5:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 383.3721,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.96547,
+        "Hydrate": null
+    },
+    "11/01/2024 5:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 378.219,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.96547,
+        "Hydrate": null
+    },
+    "11/01/2024 5:28:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 374.2278,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.96547,
+        "Hydrate": null
+    },
+    "11/01/2024 5:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 365.93325,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.96547,
+        "Hydrate": null
+    },
+    "11/01/2024 6:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 357.26445,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.96547,
+        "Hydrate": null
+    },
+    "11/01/2024 6:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 347.2515,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.96547,
+        "Hydrate": null
+    },
+    "11/01/2024 6:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 351.8634,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.02424,
+        "Hydrate": null
+    },
+    "11/01/2024 6:46:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 375.60825,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.55748,
+        "Hydrate": null
+    },
+    "11/01/2024 7:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 379.1397,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.55748,
+        "Hydrate": null
+    },
+    "11/01/2024 7:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 385.09005,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.55748,
+        "Hydrate": null
+    },
+    "11/01/2024 7:28:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 383.03895,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.55748,
+        "Hydrate": null
+    },
+    "11/01/2024 7:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 393.35159999999996,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.55748,
+        "Hydrate": null
+    },
+    "11/01/2024 8:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 385.3179,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.55748,
+        "Hydrate": null
+    },
+    "11/01/2024 8:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 374.3547,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.55748,
+        "Hydrate": null
+    },
+    "11/01/2024 8:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 382.7622,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.55748,
+        "Hydrate": null
+    },
+    "11/01/2024 8:46:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 390.58695,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.60731,
+        "Hydrate": null
+    },
+    "11/01/2024 8:58:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 397.3077,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.60731,
+        "Hydrate": null
+    },
+    "11/01/2024 9:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 377.47635,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.1532,
+        "Hydrate": null
+    },
+    "11/01/2024 9:28:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 388.26225,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.1532,
+        "Hydrate": null
+    },
+    "11/01/2024 9:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 395.85255,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.1532,
+        "Hydrate": null
+    },
+    "11/01/2024 10:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 398.88300000000004,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.1532,
+        "Hydrate": null
+    },
+    "11/01/2024 10:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 402.74865,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.1532,
+        "Hydrate": null
+    },
+    "11/01/2024 10:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 402.45135000000005,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.04894,
+        "Hydrate": null
+    },
+    "11/01/2024 10:46:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 400.42005000000006,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.04894,
+        "Hydrate": null
+    },
+    "11/01/2024 10:58:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 397.635,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.04894,
+        "Hydrate": null
+    },
+    "11/01/2024 11:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 391.87334999999996,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.04894,
+        "Hydrate": null
+    },
+    "11/01/2024 11:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 370.95074999999997,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.04894,
+        "Hydrate": null
+    },
+    "11/01/2024 11:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 361.67025,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.04894,
+        "Hydrate": null
+    },
+    "11/01/2024 12:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 346.68645000000004,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.12025,
+        "Hydrate": null
+    },
+    "11/01/2024 12:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 359.5425,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 31.95805,
+        "Hydrate": null
+    },
+    "11/01/2024 12:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 377.31075,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.57053,
+        "Hydrate": null
+    },
+    "11/01/2024 12:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 377.4762,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.57053,
+        "Hydrate": null
+    },
+    "11/01/2024 12:58:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 369.5862,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.57053,
+        "Hydrate": null
+    },
+    "11/01/2024 1:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 362.60429999999997,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.57053,
+        "Hydrate": null
+    },
+    "11/01/2024 1:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 0.0,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 62.10478,
+        "Hydrate": true
+    },
+    "11/01/2024 1:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 209.00475,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 62.10478,
+        "Hydrate": true
+    },
+    "11/01/2024 2:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 0.0,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 62.10478,
+        "Hydrate": true
+    },
+    "11/01/2024 2:16:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 0.0,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 100.0,
+        "Hydrate": true
+    },
+    "11/01/2024 2:58:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 0.0,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 100.0,
+        "Hydrate": true
+    },
+    "11/01/2024 4:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 0.0,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 100.0,
+        "Hydrate": true
+    },
+    "11/01/2024 4:58:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 0.0,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 100.0,
+        "Hydrate": true
+    },
+    "11/01/2024 6:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 0.0,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 100.0,
+        "Hydrate": true
+    },
+    "11/01/2024 7:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 0.0,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 100.0,
+        "Hydrate": true
+    },
+    "11/01/2024 8:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 0.0,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 100.0,
+        "Hydrate": true
+    },
+    "11/01/2024 9:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 0.0,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 100.0,
+        "Hydrate": true
+    },
+    "11/01/2024 10:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 0.0,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 100.0,
+        "Hydrate": true
+    },
+    "11/01/2024 11:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 0.0,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 100.0,
+        "Hydrate": true
+    },
+    "11/02/2024 1:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 0.0,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 100.0,
+        "Hydrate": true
+    },
+    "11/02/2024 2:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 0.0,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 100.0,
+        "Hydrate": true
+    },
+    "11/02/2024 2:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 189.8046,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 100.0,
+        "Hydrate": true
+    },
+    "11/02/2024 2:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 189.7206,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 100.0,
+        "Hydrate": true
+    },
+    "11/02/2024 3:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 189.72195,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 100.0,
+        "Hydrate": true
+    },
+    "11/02/2024 3:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 189.79500000000002,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 100.0,
+        "Hydrate": true
+    },
+    "11/02/2024 3:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 189.36825000000002,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 100.0,
+        "Hydrate": true
+    },
+    "11/02/2024 3:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 189.32475,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 100.0,
+        "Hydrate": true
+    },
+    "11/02/2024 3:58:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 189.4581,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 100.0,
+        "Hydrate": true
+    },
+    "11/02/2024 4:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 189.81885,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 100.0,
+        "Hydrate": true
+    },
+    "11/02/2024 4:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 189.88275,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 100.0,
+        "Hydrate": true
+    },
+    "11/02/2024 4:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 190.26225,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 100.0,
+        "Hydrate": true
+    },
+    "11/02/2024 5:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 190.35975,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 100.0,
+        "Hydrate": true
+    },
+    "11/02/2024 5:16:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 190.35735,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 100.0,
+        "Hydrate": true
+    },
+    "11/02/2024 5:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 190.43415000000002,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 100.0,
+        "Hydrate": true
+    },
+    "11/02/2024 5:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 190.40985,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 100.0,
+        "Hydrate": true
+    },
+    "11/02/2024 5:58:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 190.2897,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 100.0,
+        "Hydrate": true
+    },
+    "11/02/2024 6:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 190.15725,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 100.0,
+        "Hydrate": true
+    },
+    "11/02/2024 6:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 189.71550000000002,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 100.0,
+        "Hydrate": true
+    },
+    "11/02/2024 6:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 189.54015,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 100.0,
+        "Hydrate": true
+    },
+    "11/02/2024 7:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 189.48525,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 100.0,
+        "Hydrate": true
+    },
+    "11/02/2024 7:16:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 189.81135,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 100.0,
+        "Hydrate": true
+    },
+    "11/02/2024 7:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 189.9483,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 100.0,
+        "Hydrate": true
+    },
+    "11/02/2024 7:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 190.017,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 100.0,
+        "Hydrate": true
+    },
+    "11/02/2024 7:58:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 190.2645,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 100.0,
+        "Hydrate": true
+    },
+    "11/02/2024 8:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 190.269,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 100.0,
+        "Hydrate": true
+    },
+    "11/02/2024 8:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 189.9174,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 100.0,
+        "Hydrate": true
+    },
+    "11/02/2024 8:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 190.00334999999998,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 100.0,
+        "Hydrate": true
+    },
+    "11/02/2024 9:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 190.4775,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 100.0,
+        "Hydrate": true
+    },
+    "11/02/2024 9:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 190.695,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 100.0,
+        "Hydrate": true
+    },
+    "11/02/2024 9:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 190.5831,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 100.0,
+        "Hydrate": true
+    },
+    "11/02/2024 9:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 190.3749,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 100.0,
+        "Hydrate": true
+    },
+    "11/02/2024 10:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 190.07475,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 100.0,
+        "Hydrate": true
+    },
+    "11/02/2024 10:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 189.9543,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 100.0,
+        "Hydrate": true
+    },
+    "11/02/2024 10:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 0.0,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 0.0,
+        "Hydrate": null
+    },
+    "11/02/2024 10:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 0.0,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 100.0,
+        "Hydrate": true
+    },
+    "11/02/2024 11:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 370.99365,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.58098,
+        "Hydrate": null
+    },
+    "11/02/2024 11:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 367.61580000000004,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.58098,
+        "Hydrate": null
+    },
+    "11/02/2024 11:28:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 361.16475,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.58098,
+        "Hydrate": null
+    },
+    "11/02/2024 11:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 358.27485,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.58098,
+        "Hydrate": null
+    },
+    "11/02/2024 12:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 360.97005,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.58098,
+        "Hydrate": null
+    },
+    "11/02/2024 12:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 357.29505,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.58098,
+        "Hydrate": null
+    },
+    "11/02/2024 12:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 354.73260000000005,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.58098,
+        "Hydrate": null
+    },
+    "11/02/2024 12:46:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 353.41515,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.58098,
+        "Hydrate": null
+    },
+    "11/02/2024 1:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 348.7866,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.58098,
+        "Hydrate": null
+    },
+    "11/02/2024 1:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 345.61440000000005,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.31102,
+        "Hydrate": null
+    },
+    "11/02/2024 1:28:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 382.4433,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 31.68171,
+        "Hydrate": null
+    },
+    "11/02/2024 1:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 374.96295,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 31.68171,
+        "Hydrate": null
+    },
+    "11/02/2024 2:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 374.79105000000004,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 31.68171,
+        "Hydrate": null
+    },
+    "11/02/2024 2:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 369.183,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 31.68171,
+        "Hydrate": null
+    },
+    "11/02/2024 2:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 362.8776,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 31.68171,
+        "Hydrate": null
+    },
+    "11/02/2024 2:46:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 356.68035,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 31.68171,
+        "Hydrate": null
+    },
+    "11/02/2024 2:58:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 352.58625,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 31.68171,
+        "Hydrate": null
+    },
+    "11/02/2024 3:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 371.9694,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.10651,
+        "Hydrate": null
+    },
+    "11/02/2024 3:28:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 363.83115,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.10651,
+        "Hydrate": null
+    },
+    "11/02/2024 3:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 360.3435,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.10651,
+        "Hydrate": null
+    },
+    "11/02/2024 4:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 351.02610000000004,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.30051,
+        "Hydrate": null
+    },
+    "11/02/2024 4:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 350.4123,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.41834,
+        "Hydrate": null
+    },
+    "11/02/2024 4:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 362.0877,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.58616,
+        "Hydrate": null
+    },
+    "11/02/2024 4:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 358.461,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.58616,
+        "Hydrate": null
+    },
+    "11/02/2024 4:58:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 354.77549999999997,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.58616,
+        "Hydrate": null
+    },
+    "11/02/2024 5:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 353.08425,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.6464,
+        "Hydrate": null
+    },
+    "11/02/2024 5:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 347.6436,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.70596,
+        "Hydrate": null
+    },
+    "11/02/2024 5:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 376.7955,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.19822,
+        "Hydrate": null
+    },
+    "11/02/2024 6:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 384.66315,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.19822,
+        "Hydrate": null
+    },
+    "11/02/2024 6:16:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 392.3097,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.19822,
+        "Hydrate": null
+    },
+    "11/02/2024 6:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 397.674,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.19822,
+        "Hydrate": null
+    },
+    "11/02/2024 6:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 388.40655000000004,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.19822,
+        "Hydrate": null
+    },
+    "11/02/2024 6:58:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 388.48905,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.19822,
+        "Hydrate": null
+    },
+    "11/02/2024 7:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 403.32660000000004,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.19822,
+        "Hydrate": null
+    },
+    "11/02/2024 7:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 394.91715,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 28.26317,
+        "Hydrate": null
+    },
+    "11/02/2024 7:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 392.95889999999997,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 28.26317,
+        "Hydrate": null
+    },
+    "11/02/2024 8:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 386.13375,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.67957,
+        "Hydrate": null
+    },
+    "11/02/2024 8:16:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 404.6205,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.67957,
+        "Hydrate": null
+    },
+    "11/02/2024 8:28:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 383.31525,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.30919,
+        "Hydrate": null
+    },
+    "11/02/2024 8:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 392.87895000000003,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.30919,
+        "Hydrate": null
+    },
+    "11/02/2024 8:58:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 398.13210000000004,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.30919,
+        "Hydrate": null
+    },
+    "11/02/2024 9:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 401.61600000000004,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.30919,
+        "Hydrate": null
+    },
+    "11/02/2024 9:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 401.3682,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.03024,
+        "Hydrate": null
+    },
+    "11/02/2024 9:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 401.36699999999996,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.9761,
+        "Hydrate": null
+    },
+    "11/02/2024 10:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 371.15235,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.81901,
+        "Hydrate": null
+    },
+    "11/02/2024 10:16:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 368.99985,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.81901,
+        "Hydrate": null
+    },
+    "11/02/2024 10:28:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 364.524,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.81901,
+        "Hydrate": null
+    },
+    "11/02/2024 10:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 361.15905,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.81901,
+        "Hydrate": null
+    },
+    "11/02/2024 10:58:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 355.1895,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.81901,
+        "Hydrate": null
+    },
+    "11/02/2024 11:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 350.00775,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.87687,
+        "Hydrate": null
+    },
+    "11/02/2024 11:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 345.60825,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.03376,
+        "Hydrate": null
+    },
+    "11/02/2024 11:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 360.35564999999997,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 31.73408,
+        "Hydrate": null
+    },
+    "11/03/2024 12:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 346.1373,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 31.95597,
+        "Hydrate": null
+    },
+    "11/03/2024 12:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 360.3273,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.21025,
+        "Hydrate": null
+    },
+    "11/03/2024 12:28:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 356.29785000000004,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.21025,
+        "Hydrate": null
+    },
+    "11/03/2024 12:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 358.11705,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.6476,
+        "Hydrate": null
+    },
+    "11/03/2024 1:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 363.48015,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.6476,
+        "Hydrate": null
+    },
+    "11/03/2024 1:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 356.41110000000003,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.6476,
+        "Hydrate": null
+    },
+    "11/03/2024 1:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 374.74845,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.18155,
+        "Hydrate": null
+    },
+    "11/03/2024 1:46:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 367.557,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.18155,
+        "Hydrate": null
+    },
+    "11/03/2024 2:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 371.36805,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.47378,
+        "Hydrate": null
+    },
+    "11/03/2024 2:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 358.4472,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.47378,
+        "Hydrate": null
+    },
+    "11/03/2024 2:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 357.79785000000004,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.47378,
+        "Hydrate": null
+    },
+    "11/03/2024 2:46:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 364.70955000000004,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.47378,
+        "Hydrate": null
+    },
+    "11/03/2024 2:58:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 384.87795000000006,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.47378,
+        "Hydrate": null
+    },
+    "11/03/2024 3:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 394.20089999999993,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.47378,
+        "Hydrate": null
+    },
+    "11/03/2024 3:34:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 382.65614999999997,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 28.29795,
+        "Hydrate": null
+    },
+    "11/03/2024 3:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 400.28909999999996,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 28.29795,
+        "Hydrate": null
+    },
+    "11/03/2024 4:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 387.22995000000003,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.83682,
+        "Hydrate": null
+    },
+    "11/03/2024 4:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 394.37265,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.83682,
+        "Hydrate": null
+    },
+    "11/03/2024 4:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 378.4776,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.45996,
+        "Hydrate": null
+    },
+    "11/03/2024 4:46:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 384.57390000000004,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.45996,
+        "Hydrate": null
+    },
+    "11/03/2024 4:58:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 383.93685,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.45996,
+        "Hydrate": null
+    },
+    "11/03/2024 5:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 382.02,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.45996,
+        "Hydrate": null
+    },
+    "11/03/2024 5:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 384.67605,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.45996,
+        "Hydrate": null
+    },
+    "11/03/2024 5:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 380.78685,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.45996,
+        "Hydrate": null
+    },
+    "11/03/2024 6:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 379.73775,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.45996,
+        "Hydrate": null
+    },
+    "11/03/2024 6:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 375.73965,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.45996,
+        "Hydrate": null
+    },
+    "11/03/2024 6:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 370.27185000000003,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.45996,
+        "Hydrate": null
+    },
+    "11/03/2024 6:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 364.0941,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.45996,
+        "Hydrate": null
+    },
+    "11/03/2024 6:58:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 356.13,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.45996,
+        "Hydrate": null
+    },
+    "11/03/2024 7:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 348.8532,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.68689,
+        "Hydrate": null
+    },
+    "11/03/2024 7:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 351.40335,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.19653,
+        "Hydrate": null
+    },
+    "11/03/2024 7:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 344.31675,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.58265,
+        "Hydrate": null
+    },
+    "11/03/2024 8:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 355.95675,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.82032,
+        "Hydrate": null
+    },
+    "11/03/2024 8:16:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 347.00775,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.10653,
+        "Hydrate": null
+    },
+    "11/03/2024 8:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 397.4847,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.27002,
+        "Hydrate": null
+    },
+    "11/03/2024 8:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 393.5979,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.27002,
+        "Hydrate": null
+    },
+    "11/03/2024 8:58:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 388.21365000000003,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.27002,
+        "Hydrate": null
+    },
+    "11/03/2024 9:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 384.06255,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.27002,
+        "Hydrate": null
+    },
+    "11/03/2024 9:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 391.38405,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.27002,
+        "Hydrate": null
+    },
+    "11/03/2024 9:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 384.82125,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.27002,
+        "Hydrate": null
+    },
+    "11/03/2024 10:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 397.47015,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.27002,
+        "Hydrate": null
+    },
+    "11/03/2024 10:16:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 388.36635,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.27002,
+        "Hydrate": null
+    },
+    "11/03/2024 10:28:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 376.10490000000004,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.27002,
+        "Hydrate": null
+    },
+    "11/03/2024 10:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 377.0049,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.27002,
+        "Hydrate": null
+    },
+    "11/03/2024 10:58:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 405.57195,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.31821,
+        "Hydrate": null
+    },
+    "11/03/2024 11:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 385.12185,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 28.2557,
+        "Hydrate": null
+    },
+    "11/03/2024 11:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 394.5762,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 28.2557,
+        "Hydrate": null
+    },
+    "11/03/2024 11:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 381.95504999999997,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.89715,
+        "Hydrate": null
+    },
+    "11/03/2024 12:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 387.0891,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.89715,
+        "Hydrate": null
+    },
+    "11/03/2024 12:16:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 397.7859,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.89715,
+        "Hydrate": null
+    },
+    "11/03/2024 12:28:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 398.67885,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.83299,
+        "Hydrate": null
+    },
+    "11/03/2024 12:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 379.88925,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.43497,
+        "Hydrate": null
+    },
+    "11/03/2024 1:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 379.72875,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.43497,
+        "Hydrate": null
+    },
+    "11/03/2024 1:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 385.10625000000005,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.43497,
+        "Hydrate": null
+    },
+    "11/03/2024 1:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 382.65795,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.43497,
+        "Hydrate": null
+    },
+    "11/03/2024 1:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 381.70995,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.43497,
+        "Hydrate": null
+    },
+    "11/03/2024 2:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 378.1797,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.43497,
+        "Hydrate": null
+    },
+    "11/03/2024 2:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 373.35555,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.43497,
+        "Hydrate": null
+    },
+    "11/03/2024 2:28:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 367.73925,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.43497,
+        "Hydrate": null
+    },
+    "11/03/2024 2:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 362.93715,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.43497,
+        "Hydrate": null
+    },
+    "11/03/2024 3:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 351.8376,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.43497,
+        "Hydrate": null
+    },
+    "11/03/2024 3:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 346.21455,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.67237,
+        "Hydrate": null
+    },
+    "11/03/2024 3:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 355.527,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.19773,
+        "Hydrate": null
+    },
+    "11/03/2024 3:46:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 345.54495000000003,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.4968,
+        "Hydrate": null
+    },
+    "11/03/2024 4:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 362.18444999999997,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.56041,
+        "Hydrate": null
+    },
+    "11/03/2024 4:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 353.5161,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.56041,
+        "Hydrate": null
+    },
+    "11/03/2024 4:28:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 354.30315,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.56041,
+        "Hydrate": null
+    },
+    "11/03/2024 4:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 350.1714,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.56041,
+        "Hydrate": null
+    },
+    "11/03/2024 5:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 379.5012,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.19607,
+        "Hydrate": null
+    },
+    "11/03/2024 5:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 384.18165,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.19607,
+        "Hydrate": null
+    },
+    "11/03/2024 5:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 387.64125,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.19607,
+        "Hydrate": null
+    },
+    "11/03/2024 5:46:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 397.21320000000003,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.19607,
+        "Hydrate": null
+    },
+    "11/03/2024 5:58:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 382.596,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.19607,
+        "Hydrate": null
+    },
+    "11/03/2024 6:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 373.72005,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.19607,
+        "Hydrate": null
+    },
+    "11/03/2024 6:28:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 387.81435,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.19607,
+        "Hydrate": null
+    },
+    "11/03/2024 6:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 383.1276,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 28.22479,
+        "Hydrate": null
+    },
+    "11/03/2024 7:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 387.67455,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 28.22479,
+        "Hydrate": null
+    },
+    "11/03/2024 7:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 393.1491,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 28.22479,
+        "Hydrate": null
+    },
+    "11/03/2024 7:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 385.71900000000005,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.88308,
+        "Hydrate": null
+    },
+    "11/03/2024 7:46:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 391.36485,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.88308,
+        "Hydrate": null
+    },
+    "11/03/2024 7:58:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 395.91675,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.88308,
+        "Hydrate": null
+    },
+    "11/03/2024 8:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 402.88964999999996,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.54287,
+        "Hydrate": null
+    },
+    "11/03/2024 8:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 384.9342,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.47806,
+        "Hydrate": null
+    },
+    "11/03/2024 8:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 380.5095,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.47806,
+        "Hydrate": null
+    },
+    "11/03/2024 9:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 387.57630000000006,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.47806,
+        "Hydrate": null
+    },
+    "11/03/2024 9:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 384.9192,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.47806,
+        "Hydrate": null
+    },
+    "11/03/2024 9:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 384.5916,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.47806,
+        "Hydrate": null
+    },
+    "11/03/2024 9:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 382.26075,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.47806,
+        "Hydrate": null
+    },
+    "11/03/2024 9:58:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 377.58570000000003,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.47806,
+        "Hydrate": null
+    },
+    "11/03/2024 10:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 375.12795,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.47806,
+        "Hydrate": null
+    },
+    "11/03/2024 10:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 367.4013,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.47806,
+        "Hydrate": null
+    },
+    "11/03/2024 10:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 358.33004999999997,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.47806,
+        "Hydrate": null
+    },
+    "11/03/2024 11:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 349.25685,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.47806,
+        "Hydrate": null
+    },
+    "11/03/2024 11:16:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 358.4388,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.18736,
+        "Hydrate": null
+    },
+    "11/03/2024 11:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 351.84915,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.18736,
+        "Hydrate": null
+    },
+    "11/03/2024 11:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 364.61850000000004,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.614,
+        "Hydrate": null
+    },
+    "11/03/2024 11:58:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 359.8542,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.614,
+        "Hydrate": null
+    },
+    "11/04/2024 12:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 353.76555,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.614,
+        "Hydrate": null
+    },
+    "11/04/2024 12:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 355.7469,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.67649,
+        "Hydrate": null
+    },
+    "11/04/2024 12:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 361.5339,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.67649,
+        "Hydrate": null
+    },
+    "11/04/2024 1:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 363.8778,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.67649,
+        "Hydrate": null
+    },
+    "11/04/2024 1:16:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 374.04134999999997,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.67649,
+        "Hydrate": null
+    },
+    "11/04/2024 1:28:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 362.98650000000004,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.67649,
+        "Hydrate": null
+    },
+    "11/04/2024 1:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 355.21844999999996,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.67649,
+        "Hydrate": null
+    },
+    "11/04/2024 1:58:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 355.3854,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.67649,
+        "Hydrate": null
+    },
+    "11/04/2024 2:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 382.52340000000004,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.67649,
+        "Hydrate": null
+    },
+    "11/04/2024 2:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 385.8279,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.67649,
+        "Hydrate": null
+    },
+    "11/04/2024 2:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 403.00065,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.61195,
+        "Hydrate": null
+    },
+    "11/04/2024 3:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 398.59275,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.87505,
+        "Hydrate": null
+    },
+    "11/04/2024 3:16:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 378.7665,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.4878,
+        "Hydrate": null
+    },
+    "11/04/2024 3:28:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 385.8828,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.4878,
+        "Hydrate": null
+    },
+    "11/04/2024 3:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 391.70535000000007,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.4878,
+        "Hydrate": null
+    },
+    "11/04/2024 4:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 393.45089999999993,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.4878,
+        "Hydrate": null
+    },
+    "11/04/2024 4:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 393.84045,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.4878,
+        "Hydrate": null
+    },
+    "11/04/2024 4:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 394.5726,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.4878,
+        "Hydrate": null
+    },
+    "11/04/2024 4:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 392.9289,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.4878,
+        "Hydrate": null
+    },
+    "11/04/2024 5:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 390.9705,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.4878,
+        "Hydrate": null
+    },
+    "11/04/2024 5:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 385.40520000000004,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.4878,
+        "Hydrate": null
+    },
+    "11/04/2024 5:28:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 378.3135,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.4878,
+        "Hydrate": null
+    },
+    "11/04/2024 5:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 374.49375,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.4878,
+        "Hydrate": null
+    },
+    "11/04/2024 6:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 372.0276,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.4878,
+        "Hydrate": null
+    },
+    "11/04/2024 6:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 364.63575,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.4878,
+        "Hydrate": null
+    },
+    "11/04/2024 6:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 356.90954999999997,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.4878,
+        "Hydrate": null
+    },
+    "11/04/2024 6:46:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 351.2247,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.4878,
+        "Hydrate": null
+    },
+    "11/04/2024 7:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 345.82875,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.55957,
+        "Hydrate": null
+    },
+    "11/04/2024 7:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 358.6029,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.18746,
+        "Hydrate": null
+    },
+    "11/04/2024 7:28:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 349.8981,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.24593,
+        "Hydrate": null
+    },
+    "11/04/2024 7:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 360.84855,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.66296,
+        "Hydrate": null
+    },
+    "11/04/2024 8:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 365.0577,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.66296,
+        "Hydrate": null
+    },
+    "11/04/2024 8:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 367.09605,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.66296,
+        "Hydrate": null
+    },
+    "11/04/2024 8:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 371.2632,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.66296,
+        "Hydrate": null
+    },
+    "11/04/2024 8:46:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 368.5485,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.66296,
+        "Hydrate": null
+    },
+    "11/04/2024 8:58:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 365.6037,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.66296,
+        "Hydrate": null
+    },
+    "11/04/2024 9:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 379.35704999999996,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.66296,
+        "Hydrate": null
+    },
+    "11/04/2024 9:28:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 394.61580000000004,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.66296,
+        "Hydrate": null
+    },
+    "11/04/2024 9:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 398.61825,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.66296,
+        "Hydrate": null
+    },
+    "11/04/2024 10:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 401.13480000000004,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.85159,
+        "Hydrate": null
+    },
+    "11/04/2024 10:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 381.76275,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.42034,
+        "Hydrate": null
+    },
+    "11/04/2024 10:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 384.5544,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.42034,
+        "Hydrate": null
+    },
+    "11/04/2024 10:46:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 393.37604999999996,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.42034,
+        "Hydrate": null
+    },
+    "11/04/2024 10:58:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 396.19185000000004,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.42034,
+        "Hydrate": null
+    },
+    "11/04/2024 11:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 402.77699999999993,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.36563,
+        "Hydrate": null
+    },
+    "11/04/2024 11:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 363.79994999999997,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.8743,
+        "Hydrate": null
+    },
+    "11/04/2024 11:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 361.38075000000003,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.8743,
+        "Hydrate": null
+    },
+    "11/04/2024 12:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 358.0449,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.8743,
+        "Hydrate": null
+    },
+    "11/04/2024 12:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 350.77365,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.94158,
+        "Hydrate": null
+    },
+    "11/04/2024 12:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 349.1085,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 26.94158,
+        "Hydrate": null
+    },
+    "11/04/2024 12:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 344.784,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 28.38564,
+        "Hydrate": null
+    },
+    "11/04/2024 12:58:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 364.3263,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 31.72932,
+        "Hydrate": null
+    },
+    "11/04/2024 1:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 357.79485,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 31.72932,
+        "Hydrate": null
+    },
+    "11/04/2024 1:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 351.0858,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 31.72932,
+        "Hydrate": null
+    },
+    "11/04/2024 1:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 366.19845,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.18852,
+        "Hydrate": null
+    },
+    "11/04/2024 2:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 358.80674999999997,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.18852,
+        "Hydrate": null
+    },
+    "11/04/2024 2:16:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 348.51585,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.26306,
+        "Hydrate": null
+    },
+    "11/04/2024 2:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 366.8178,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.63215,
+        "Hydrate": null
+    },
+    "11/04/2024 2:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 369.18015,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.63215,
+        "Hydrate": null
+    },
+    "11/04/2024 2:58:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 374.8485,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.63215,
+        "Hydrate": null
+    },
+    "11/04/2024 3:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 369.98805000000004,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.63215,
+        "Hydrate": null
+    },
+    "11/04/2024 3:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 377.4387,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.63215,
+        "Hydrate": null
+    },
+    "11/04/2024 3:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 370.28805,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.69813,
+        "Hydrate": null
+    },
+    "11/04/2024 4:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 363.55695,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.69813,
+        "Hydrate": null
+    },
+    "11/04/2024 4:16:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 375.0693,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.69813,
+        "Hydrate": null
+    },
+    "11/04/2024 4:28:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 396.94050000000004,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.69813,
+        "Hydrate": null
+    },
+    "11/04/2024 4:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 400.55039999999997,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.69813,
+        "Hydrate": null
+    },
+    "11/04/2024 4:58:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 394.90380000000005,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.8731,
+        "Hydrate": null
+    },
+    "11/04/2024 6:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 394.6722,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.48857,
+        "Hydrate": null
+    },
+    "11/04/2024 6:16:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 396.49424999999997,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.48857,
+        "Hydrate": null
+    },
+    "11/04/2024 6:28:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 397.8012,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.48857,
+        "Hydrate": null
+    },
+    "11/04/2024 6:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 395.31960000000004,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.48857,
+        "Hydrate": null
+    },
+    "11/04/2024 7:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 391.50120000000004,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.48857,
+        "Hydrate": null
+    },
+    "11/04/2024 7:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 388.75185,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.48857,
+        "Hydrate": null
+    },
+    "11/04/2024 7:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 382.6689,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.48857,
+        "Hydrate": null
+    },
+    "11/04/2024 7:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 379.05705,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.48857,
+        "Hydrate": null
+    },
+    "11/04/2024 8:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 367.5702,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.48857,
+        "Hydrate": null
+    },
+    "11/04/2024 8:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 360.7341,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.48857,
+        "Hydrate": null
+    },
+    "11/04/2024 8:28:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 354.57599999999996,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.48857,
+        "Hydrate": null
+    },
+    "11/04/2024 8:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 346.6209,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.75829,
+        "Hydrate": null
+    },
+    "11/04/2024 9:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 356.1237,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.20813,
+        "Hydrate": null
+    },
+    "11/04/2024 9:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 347.5575,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.50585,
+        "Hydrate": null
+    },
+    "11/04/2024 9:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 367.26824999999997,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.67054,
+        "Hydrate": null
+    },
+    "11/04/2024 9:46:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 377.00939999999997,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.67054,
+        "Hydrate": null
+    },
+    "11/04/2024 10:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 358.9806,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.23566,
+        "Hydrate": null
+    },
+    "11/04/2024 10:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 370.4517,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.72843,
+        "Hydrate": null
+    },
+    "11/04/2024 10:28:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 362.9916,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.72843,
+        "Hydrate": null
+    },
+    "11/04/2024 10:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 366.38685,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 34.06752,
+        "Hydrate": null
+    },
+    "11/04/2024 11:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 360.14700000000005,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 34.06752,
+        "Hydrate": null
+    },
+    "11/04/2024 11:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 389.18309999999997,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 34.06752,
+        "Hydrate": null
+    },
+    "11/04/2024 11:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 392.71754999999996,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 29.34142,
+        "Hydrate": null
+    },
+    "11/04/2024 11:46:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 403.12575,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 29.18517,
+        "Hydrate": null
+    },
+    "11/04/2024 11:58:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 398.5665,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 28.93301,
+        "Hydrate": null
+    },
+    "11/05/2024 12:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 373.58549999999997,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 28.31343,
+        "Hydrate": null
+    },
+    "11/05/2024 12:28:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 355.4733,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 28.31343,
+        "Hydrate": null
+    },
+    "11/05/2024 12:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 346.50570000000005,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 29.29329,
+        "Hydrate": null
+    },
+    "11/05/2024 1:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 372.08939999999996,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.23631,
+        "Hydrate": null
+    },
+    "11/05/2024 1:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 380.4825,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 28.28544,
+        "Hydrate": null
+    },
+    "11/05/2024 1:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 386.80544999999995,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 28.28544,
+        "Hydrate": null
+    },
+    "11/05/2024 1:46:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 397.49535,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 28.28544,
+        "Hydrate": null
+    },
+    "11/05/2024 1:58:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 397.67010000000005,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 28.28544,
+        "Hydrate": null
+    },
+    "11/05/2024 2:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 392.72655,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 28.28544,
+        "Hydrate": null
+    },
+    "11/05/2024 2:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 389.8836,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 28.28544,
+        "Hydrate": null
+    },
+    "11/05/2024 2:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 378.21045,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 28.28544,
+        "Hydrate": null
+    },
+    "11/05/2024 3:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 370.8252,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 28.28544,
+        "Hydrate": null
+    },
+    "11/05/2024 3:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 361.3206,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 28.28544,
+        "Hydrate": null
+    },
+    "11/05/2024 3:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 348.5517,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 28.28544,
+        "Hydrate": null
+    },
+    "11/05/2024 3:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 365.74620000000004,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.20799,
+        "Hydrate": null
+    },
+    "11/05/2024 3:58:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 372.6102,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.20799,
+        "Hydrate": null
+    },
+    "11/05/2024 4:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 373.78605,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.20799,
+        "Hydrate": null
+    },
+    "11/05/2024 4:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 367.83735,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.20799,
+        "Hydrate": null
+    },
+    "11/05/2024 4:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 373.57755000000003,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.20799,
+        "Hydrate": null
+    },
+    "11/05/2024 5:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 356.59995000000004,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.20799,
+        "Hydrate": null
+    },
+    "11/05/2024 5:16:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 352.68044999999995,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.26963,
+        "Hydrate": null
+    },
+    "11/05/2024 5:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 359.8965,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.26963,
+        "Hydrate": null
+    },
+    "11/05/2024 5:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 378.9873,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.26963,
+        "Hydrate": null
+    },
+    "11/05/2024 5:58:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 380.06145000000004,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.26963,
+        "Hydrate": null
+    },
+    "11/05/2024 6:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 386.66235,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.26963,
+        "Hydrate": null
+    },
+    "11/05/2024 6:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 397.68719999999996,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.26963,
+        "Hydrate": null
+    },
+    "11/05/2024 6:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 378.6561,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 28.33715,
+        "Hydrate": null
+    },
+    "11/05/2024 7:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 388.95975000000004,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 28.33715,
+        "Hydrate": null
+    },
+    "11/05/2024 7:16:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 390.73935000000006,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 28.33715,
+        "Hydrate": null
+    },
+    "11/05/2024 7:28:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 393.7749,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 28.33715,
+        "Hydrate": null
+    },
+    "11/05/2024 7:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 397.30244999999996,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 28.33715,
+        "Hydrate": null
+    },
+    "11/05/2024 7:58:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 397.40864999999997,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 28.33715,
+        "Hydrate": null
+    },
+    "11/05/2024 8:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 395.63054999999997,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 28.33715,
+        "Hydrate": null
+    },
+    "11/05/2024 8:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 394.31565,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 28.33715,
+        "Hydrate": null
+    },
+    "11/05/2024 8:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 388.99469999999997,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 28.33715,
+        "Hydrate": null
+    },
+    "11/05/2024 9:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 379.30065,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 28.33715,
+        "Hydrate": null
+    },
+    "11/05/2024 9:16:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 369.5301,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 28.33715,
+        "Hydrate": null
+    },
+    "11/05/2024 9:28:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 364.8636,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 28.33715,
+        "Hydrate": null
+    },
+    "11/05/2024 9:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 352.43085,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 28.33715,
+        "Hydrate": null
+    },
+    "11/05/2024 10:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 368.2617,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.2774,
+        "Hydrate": null
+    },
+    "11/05/2024 10:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 356.5695,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.2774,
+        "Hydrate": null
+    },
+    "11/05/2024 10:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 354.6891,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.64567,
+        "Hydrate": null
+    },
+    "11/05/2024 11:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 364.33365000000003,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 34.10104,
+        "Hydrate": null
+    },
+    "11/05/2024 11:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 377.4,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 34.10104,
+        "Hydrate": null
+    },
+    "11/05/2024 11:28:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 387.46754999999996,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 34.10104,
+        "Hydrate": null
+    },
+    "11/05/2024 11:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 382.16325,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 34.10104,
+        "Hydrate": null
+    },
+    "11/05/2024 12:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 392.70734999999996,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 34.10104,
+        "Hydrate": null
+    },
+    "11/05/2024 12:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 374.3976,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 34.10104,
+        "Hydrate": null
+    },
+    "11/05/2024 12:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 376.33245,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 34.10104,
+        "Hydrate": null
+    },
+    "11/05/2024 12:46:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 386.45054999999996,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 34.10104,
+        "Hydrate": null
+    },
+    "11/05/2024 1:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 379.7778,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 29.17831,
+        "Hydrate": null
+    },
+    "11/05/2024 1:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 384.69345000000004,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 29.17831,
+        "Hydrate": null
+    },
+    "11/05/2024 1:28:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 373.2009,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 28.7576,
+        "Hydrate": null
+    },
+    "11/05/2024 1:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 402.97455,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 28.7576,
+        "Hydrate": null
+    },
+    "11/05/2024 2:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 395.61089999999996,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 28.14472,
+        "Hydrate": null
+    },
+    "11/05/2024 2:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 380.20635,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.76317,
+        "Hydrate": null
+    },
+    "11/05/2024 2:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 381.18705,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.76317,
+        "Hydrate": null
+    },
+    "11/05/2024 2:46:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 379.82625,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.76317,
+        "Hydrate": null
+    },
+    "11/05/2024 2:58:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 379.4496,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.76317,
+        "Hydrate": null
+    },
+    "11/05/2024 3:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 375.94815,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.76317,
+        "Hydrate": null
+    },
+    "11/05/2024 3:28:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 372.66795,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.76317,
+        "Hydrate": null
+    },
+    "11/05/2024 3:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 364.87845,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.76317,
+        "Hydrate": null
+    },
+    "11/05/2024 4:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 361.032,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.76317,
+        "Hydrate": null
+    },
+    "11/05/2024 4:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 359.14725,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.76317,
+        "Hydrate": null
+    },
+    "11/05/2024 4:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 359.52750000000003,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.76317,
+        "Hydrate": null
+    },
+    "11/05/2024 4:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 348.39795,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.82132,
+        "Hydrate": null
+    },
+    "11/05/2024 4:58:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 369.68385,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.6316,
+        "Hydrate": null
+    },
+    "11/05/2024 5:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 353.20455,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.6316,
+        "Hydrate": null
+    },
+    "11/05/2024 5:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 359.43989999999997,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.6316,
+        "Hydrate": null
+    },
+    "11/05/2024 5:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 359.72535,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.6316,
+        "Hydrate": null
+    },
+    "11/05/2024 6:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 366.18179999999995,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.6316,
+        "Hydrate": null
+    },
+    "11/05/2024 6:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 368.8545,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.6316,
+        "Hydrate": null
+    },
+    "11/05/2024 6:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 354.92535,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.6316,
+        "Hydrate": null
+    },
+    "11/05/2024 6:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 357.60945,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.6316,
+        "Hydrate": null
+    },
+    "11/05/2024 6:58:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 371.47275,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.6316,
+        "Hydrate": null
+    },
+    "11/05/2024 7:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 384.0036,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.6316,
+        "Hydrate": null
+    },
+    "11/05/2024 7:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 390.21449999999993,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.6316,
+        "Hydrate": null
+    },
+    "11/05/2024 7:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 402.97170000000006,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.57409,
+        "Hydrate": null
+    },
+    "11/05/2024 8:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 393.15315,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.82803,
+        "Hydrate": null
+    },
+    "11/05/2024 8:16:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 397.95015,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.82803,
+        "Hydrate": null
+    },
+    "11/05/2024 8:28:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 377.62215,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.49133,
+        "Hydrate": null
+    },
+    "11/05/2024 8:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 379.45950000000005,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.49133,
+        "Hydrate": null
+    },
+    "11/05/2024 8:58:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 381.0297,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.49133,
+        "Hydrate": null
+    },
+    "11/05/2024 9:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 383.7558,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.49133,
+        "Hydrate": null
+    },
+    "11/05/2024 9:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 383.19975,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.49133,
+        "Hydrate": null
+    },
+    "11/05/2024 9:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 382.5846,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.49133,
+        "Hydrate": null
+    },
+    "11/05/2024 10:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 376.9119,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.49133,
+        "Hydrate": null
+    },
+    "11/05/2024 10:16:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 371.89799999999997,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.49133,
+        "Hydrate": null
+    },
+    "11/05/2024 10:28:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 364.75965,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.49133,
+        "Hydrate": null
+    },
+    "11/05/2024 10:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 360.2985,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.49133,
+        "Hydrate": null
+    },
+    "11/05/2024 10:58:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 352.50225,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.49133,
+        "Hydrate": null
+    },
+    "11/05/2024 11:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 357.14415,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.24046,
+        "Hydrate": null
+    },
+    "11/05/2024 11:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 346.52265,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.43583,
+        "Hydrate": null
+    },
+    "11/05/2024 11:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 360.7296,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.65207,
+        "Hydrate": null
+    },
+    "11/06/2024 12:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 353.69385,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.65207,
+        "Hydrate": null
+    },
+    "11/06/2024 12:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 366.23670000000004,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.65207,
+        "Hydrate": null
+    },
+    "11/06/2024 12:28:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 370.47794999999996,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.65207,
+        "Hydrate": null
+    },
+    "11/06/2024 12:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 373.8363,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.65207,
+        "Hydrate": null
+    },
+    "11/06/2024 1:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 367.72185,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.65207,
+        "Hydrate": null
+    },
+    "11/06/2024 1:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 356.4489,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.65207,
+        "Hydrate": null
+    },
+    "11/06/2024 1:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 362.4831,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.02192,
+        "Hydrate": null
+    },
+    "11/06/2024 1:46:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 379.39755,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.02192,
+        "Hydrate": null
+    },
+    "11/06/2024 2:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 385.21125,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.02192,
+        "Hydrate": null
+    },
+    "11/06/2024 2:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 396.2772,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.02192,
+        "Hydrate": null
+    },
+    "11/06/2024 2:28:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 403.05420000000004,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.91187,
+        "Hydrate": null
+    },
+    "11/06/2024 2:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 398.9016,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.83198,
+        "Hydrate": null
+    },
+    "11/06/2024 3:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 379.26120000000003,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.48874,
+        "Hydrate": null
+    },
+    "11/06/2024 3:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 385.85655,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.48874,
+        "Hydrate": null
+    },
+    "11/06/2024 3:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 384.94455000000005,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.48874,
+        "Hydrate": null
+    },
+    "11/06/2024 3:46:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 382.73069999999996,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.48874,
+        "Hydrate": null
+    },
+    "11/06/2024 3:58:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 382.34655,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.48874,
+        "Hydrate": null
+    },
+    "11/06/2024 4:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 379.92584999999997,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.48874,
+        "Hydrate": null
+    },
+    "11/06/2024 4:28:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 375.41235,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.48874,
+        "Hydrate": null
+    },
+    "11/06/2024 4:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 368.4543,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.48874,
+        "Hydrate": null
+    },
+    "11/06/2024 5:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 362.8125,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.48874,
+        "Hydrate": null
+    },
+    "11/06/2024 5:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 352.4268,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.48874,
+        "Hydrate": null
+    },
+    "11/06/2024 5:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 347.7396,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.48874,
+        "Hydrate": null
+    },
+    "11/06/2024 5:46:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 355.25505,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.18393,
+        "Hydrate": null
+    },
+    "11/06/2024 5:58:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 345.58095000000003,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.35051,
+        "Hydrate": null
+    },
+    "11/06/2024 6:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 360.47055,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.60153,
+        "Hydrate": null
+    },
+    "11/06/2024 6:28:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 358.9224,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.60153,
+        "Hydrate": null
+    },
+    "11/06/2024 6:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 365.14485,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.60153,
+        "Hydrate": null
+    },
+    "11/06/2024 7:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 368.17695000000003,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.60153,
+        "Hydrate": null
+    },
+    "11/06/2024 7:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 368.57714999999996,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.60153,
+        "Hydrate": null
+    },
+    "11/06/2024 7:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 366.27885000000003,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.60153,
+        "Hydrate": null
+    },
+    "11/06/2024 7:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 363.6489,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.60153,
+        "Hydrate": null
+    },
+    "11/06/2024 7:58:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 360.89655,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.60153,
+        "Hydrate": null
+    },
+    "11/06/2024 8:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 375.03225,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.60153,
+        "Hydrate": null
+    },
+    "11/06/2024 8:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 382.43370000000004,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.60153,
+        "Hydrate": null
+    },
+    "11/06/2024 8:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 385.02405,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.60153,
+        "Hydrate": null
+    },
+    "11/06/2024 9:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 393.2505,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.60153,
+        "Hydrate": null
+    },
+    "11/06/2024 9:16:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 397.36545,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.60153,
+        "Hydrate": null
+    },
+    "11/06/2024 9:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 400.68375000000003,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.60153,
+        "Hydrate": null
+    },
+    "11/06/2024 9:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 388.14104999999995,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.85146,
+        "Hydrate": null
+    },
+    "11/06/2024 9:58:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 391.73445,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.85146,
+        "Hydrate": null
+    },
+    "11/06/2024 10:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 395.31809999999996,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.85146,
+        "Hydrate": null
+    },
+    "11/06/2024 10:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 399.48449999999997,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.85146,
+        "Hydrate": null
+    },
+    "11/06/2024 10:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 390.79859999999996,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.85146,
+        "Hydrate": null
+    },
+    "11/06/2024 11:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 386.74559999999997,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.85146,
+        "Hydrate": null
+    },
+    "11/06/2024 11:16:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 387.15375000000006,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.85146,
+        "Hydrate": null
+    },
+    "11/06/2024 11:28:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 380.5599,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.85146,
+        "Hydrate": null
+    },
+    "11/06/2024 11:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 366.6597,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.85146,
+        "Hydrate": null
+    },
+    "11/06/2024 11:58:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 359.79705,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.85146,
+        "Hydrate": null
+    },
+    "11/06/2024 12:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 355.20585,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.85146,
+        "Hydrate": null
+    },
+    "11/06/2024 12:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 346.8315,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.85146,
+        "Hydrate": null
+    },
+    "11/06/2024 12:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 359.02305,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.62425,
+        "Hydrate": null
+    },
+    "11/06/2024 1:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 350.0769,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.80256,
+        "Hydrate": null
+    },
+    "11/06/2024 1:16:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 350.5305,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.98341,
+        "Hydrate": null
+    },
+    "11/06/2024 1:28:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 354.9546,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.98341,
+        "Hydrate": null
+    },
+    "11/06/2024 1:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 356.5341,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.98341,
+        "Hydrate": null
+    },
+    "11/06/2024 2:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 387.24645000000004,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.22405,
+        "Hydrate": null
+    },
+    "11/06/2024 2:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 377.2254,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.22405,
+        "Hydrate": null
+    },
+    "11/06/2024 2:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 369.1128,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.22405,
+        "Hydrate": null
+    },
+    "11/06/2024 2:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 381.4389,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.22405,
+        "Hydrate": null
+    },
+    "11/06/2024 3:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 403.8207,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.10785,
+        "Hydrate": null
+    },
+    "11/06/2024 3:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 379.96815,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 28.2787,
+        "Hydrate": null
+    },
+    "11/06/2024 3:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 396.24075000000005,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 28.2787,
+        "Hydrate": null
+    },
+    "11/06/2024 4:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 375.25665,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.83983,
+        "Hydrate": null
+    },
+    "11/06/2024 4:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 379.86075,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.83983,
+        "Hydrate": null
+    },
+    "11/06/2024 4:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 382.2648,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.83983,
+        "Hydrate": null
+    },
+    "11/06/2024 4:46:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 387.6798,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.83983,
+        "Hydrate": null
+    },
+    "11/06/2024 5:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 389.12760000000003,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.83983,
+        "Hydrate": null
+    },
+    "11/06/2024 5:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 389.18219999999997,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.83983,
+        "Hydrate": null
+    },
+    "11/06/2024 5:28:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 386.1675,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.83983,
+        "Hydrate": null
+    },
+    "11/06/2024 5:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 379.9053,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.83983,
+        "Hydrate": null
+    },
+    "11/06/2024 6:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 376.04864999999995,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.83983,
+        "Hydrate": null
+    },
+    "11/06/2024 6:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 371.3838,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.83983,
+        "Hydrate": null
+    },
+    "11/06/2024 6:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 365.91945,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.83983,
+        "Hydrate": null
+    },
+    "11/06/2024 6:46:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 356.9649,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.83983,
+        "Hydrate": null
+    },
+    "11/06/2024 6:58:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 349.50329999999997,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.83983,
+        "Hydrate": null
+    },
+    "11/06/2024 7:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 358.98465,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.63742,
+        "Hydrate": null
+    },
+    "11/06/2024 7:28:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 351.91335000000004,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.63742,
+        "Hydrate": null
+    },
+    "11/06/2024 7:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 350.82405,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.69352,
+        "Hydrate": null
+    },
+    "11/06/2024 8:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 358.82835,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.69352,
+        "Hydrate": null
+    },
+    "11/06/2024 8:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 359.31945,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.69352,
+        "Hydrate": null
+    },
+    "11/06/2024 8:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 364.56555000000003,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.69352,
+        "Hydrate": null
+    },
+    "11/06/2024 8:46:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 361.8249,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.69352,
+        "Hydrate": null
+    },
+    "11/06/2024 8:58:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 352.42244999999997,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.69352,
+        "Hydrate": null
+    },
+    "11/06/2024 9:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 352.87005,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.08393,
+        "Hydrate": null
+    },
+    "11/06/2024 9:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 373.59344999999996,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.08393,
+        "Hydrate": null
+    },
+    "11/06/2024 9:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 380.35245,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.08393,
+        "Hydrate": null
+    },
+    "11/06/2024 10:00:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 390.20820000000003,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.08393,
+        "Hydrate": null
+    },
+    "11/06/2024 10:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 401.9271,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.08393,
+        "Hydrate": null
+    },
+    "11/06/2024 10:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 395.91014999999993,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.86732,
+        "Hydrate": null
+    },
+    "11/06/2024 10:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 400.5414,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.8106,
+        "Hydrate": null
+    },
+    "11/06/2024 10:58:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 380.32695,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.37048,
+        "Hydrate": null
+    },
+    "11/06/2024 11:14:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 380.8143,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.37048,
+        "Hydrate": null
+    },
+    "11/06/2024 11:30:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 381.66945,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.37048,
+        "Hydrate": null
+    },
+    "11/06/2024 11:44:00 pm": {
+        "Inj Gas Meter Volume Instantaneous": 378.5262,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.37048,
+        "Hydrate": null
+    },
+    "11/07/2024 12:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 374.2323,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.37048,
+        "Hydrate": null
+    },
+    "11/07/2024 12:16:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 371.4126,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.37048,
+        "Hydrate": null
+    },
+    "11/07/2024 12:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 365.6334,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.37048,
+        "Hydrate": null
+    },
+    "11/07/2024 12:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 358.87155,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.37048,
+        "Hydrate": null
+    },
+    "11/07/2024 12:58:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 351.9183,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.37048,
+        "Hydrate": null
+    },
+    "11/07/2024 1:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 345.79949999999997,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.48658,
+        "Hydrate": null
+    },
+    "11/07/2024 1:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 353.00535,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.24809,
+        "Hydrate": null
+    },
+    "11/07/2024 1:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 363.297,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.68855,
+        "Hydrate": null
+    },
+    "11/07/2024 2:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 360.49620000000004,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.68855,
+        "Hydrate": null
+    },
+    "11/07/2024 2:16:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 359.85825,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.68855,
+        "Hydrate": null
+    },
+    "11/07/2024 2:28:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 360.63509999999997,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.68855,
+        "Hydrate": null
+    },
+    "11/07/2024 2:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 361.58684999999997,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.68855,
+        "Hydrate": null
+    },
+    "11/07/2024 2:58:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 369.4626,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.68855,
+        "Hydrate": null
+    },
+    "11/07/2024 3:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 363.55289999999997,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.68855,
+        "Hydrate": null
+    },
+    "11/07/2024 3:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 357.1209,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.68855,
+        "Hydrate": null
+    },
+    "11/07/2024 3:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 368.03955,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.68855,
+        "Hydrate": null
+    },
+    "11/07/2024 4:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 379.9584,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.68855,
+        "Hydrate": null
+    },
+    "11/07/2024 4:16:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 386.5203,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.68855,
+        "Hydrate": null
+    },
+    "11/07/2024 4:28:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 397.104,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.68855,
+        "Hydrate": null
+    },
+    "11/07/2024 4:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 392.68724999999995,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.83465,
+        "Hydrate": null
+    },
+    "11/07/2024 5:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 399.83985000000007,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.83465,
+        "Hydrate": null
+    },
+    "11/07/2024 5:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 376.92105,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.32834,
+        "Hydrate": null
+    },
+    "11/07/2024 5:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 375.56354999999996,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.32834,
+        "Hydrate": null
+    },
+    "11/07/2024 5:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 382.6866,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.32834,
+        "Hydrate": null
+    },
+    "11/07/2024 6:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 384.17565,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.32834,
+        "Hydrate": null
+    },
+    "11/07/2024 6:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 380.01,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.32834,
+        "Hydrate": null
+    },
+    "11/07/2024 6:28:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 378.77655,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.32834,
+        "Hydrate": null
+    },
+    "11/07/2024 6:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 372.56685000000004,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.32834,
+        "Hydrate": null
+    },
+    "11/07/2024 7:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 366.76349999999996,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.32834,
+        "Hydrate": null
+    },
+    "11/07/2024 7:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 356.89545,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.32834,
+        "Hydrate": null
+    },
+    "11/07/2024 7:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 348.71325,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.39269,
+        "Hydrate": null
+    },
+    "11/07/2024 7:46:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 360.996,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.24203,
+        "Hydrate": null
+    },
+    "11/07/2024 8:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 351.11654999999996,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.24203,
+        "Hydrate": null
+    },
+    "11/07/2024 8:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 362.4873,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.66375,
+        "Hydrate": null
+    },
+    "11/07/2024 8:28:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 354.243,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.66375,
+        "Hydrate": null
+    },
+    "11/07/2024 8:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 355.6449,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.66375,
+        "Hydrate": null
+    },
+    "11/07/2024 9:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 358.30949999999996,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.73332,
+        "Hydrate": null
+    },
+    "11/07/2024 9:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 355.54905,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.73332,
+        "Hydrate": null
+    },
+    "11/07/2024 9:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 365.79195,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.73332,
+        "Hydrate": null
+    },
+    "11/07/2024 9:46:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 353.73720000000003,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 32.73332,
+        "Hydrate": null
+    },
+    "11/07/2024 9:58:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 384.29115,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.26079,
+        "Hydrate": null
+    },
+    "11/07/2024 10:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 399.63599999999997,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 33.26079,
+        "Hydrate": null
+    },
+    "11/07/2024 10:28:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 391.7922,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 28.31798,
+        "Hydrate": null
+    },
+    "11/07/2024 10:44:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 403.18395000000004,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 28.2632,
+        "Hydrate": null
+    },
+    "11/07/2024 11:00:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 384.34875,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.84894,
+        "Hydrate": null
+    },
+    "11/07/2024 11:14:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 391.221,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.84894,
+        "Hydrate": null
+    },
+    "11/07/2024 11:30:00 am": {
+        "Inj Gas Meter Volume Instantaneous": 398.82735,
+        "Inj Gas Meter Volume Setpoint": 375.0,
+        "Inj Gas Valve Percent Open": 27.84894,
+        "Hydrate": null
+    }
+}
