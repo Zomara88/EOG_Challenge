@@ -16,6 +16,14 @@ const HomePage = () => {
   }, [logs]);
 
   const handleAddEntry = () => {
+    if (!gasVolume || !valvePercent) {
+      alert("Both fields are required.");
+      return;
+    }
+    if (parseFloat(valvePercent) > 100) {
+      alert("Valve Percent cannot exceed 100.");
+      return;
+    }
     const timestamp = new Date().toLocaleString(); // Current device clock
     setLogs([
       ...logs,
