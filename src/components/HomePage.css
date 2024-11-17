@@ -1,0 +1,98 @@
+.homepage-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start; 
+  height: 100vh;
+  padding-top: 30px; /* Adjusted padding */
+  position: relative;
+}
+
+.input-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.input-wrapper {
+  position: relative;
+  margin-bottom: 10px;
+}
+
+.input-wrapper input {
+  padding-right: 30px;
+}
+
+.input-container input {
+  margin-bottom: 10px;
+}
+
+.water-droplet-button {
+  background-color: #00f;
+  color: #fff;
+  border: none;
+  border-radius: 50%;
+  padding: 10px 20px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.water-droplet-button:hover {
+  background-color: #00c;
+}
+
+.table-container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 80%; /* Reverted to original width */
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+.button-container {
+  display: flex;
+  justify-content: space-between;
+  width: 80%; /* Adjusted width to match table */
+  margin: 20px; /* Reduced margin for better spacing */
+  bottom: 20px; /* Shift buttons up */
+}
+
+.delete-entries-button {
+  background-color: #f00;
+  color: #fff;
+  border: none;
+  border-radius: 50%;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.delete-entries-button:hover {
+  background-color: #c00;
+}
+
+.show-freezes-button {
+  background-color: #00f;
+  color: #fff;
+  border: none;
+  border-radius: 50%;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.show-freezes-button:hover {
+  background-color: #00c;
+}
