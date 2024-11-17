@@ -1,14 +1,41 @@
+/* Ensure the loading container takes up the full height of the screen */
 .loading-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    background-color: #f4f4f4;
-  }
-  
-  .spinner {
-    text-align: center;
-    font-size: 24px;
-    font-weight: bold;
-  }
-  
+  display: flex;
+  justify-content: center;  /* Center horizontally */
+  align-items: center;      /* Center vertically */
+  height: 100vh;            /* Full viewport height */
+  background-color: #fff;   /* Optional: background color */
+}
+
+/* Center the spinner and text */
+.spinner {
+  text-align: center;       /* Center the content inside the spinner div */
+}
+
+/* Optional: adjust size of the gif */
+.loading-gif {
+  width: 300px;  /* Adjust the size of the gif */
+  height: auto;  /* Maintain aspect ratio */
+  margin-bottom: 10px;  /* Add some space between the GIF and the text */
+}
+
+/* Loading text animation */
+.loading-text {
+  font-size: 18px;
+  color: #333;
+  position: relative;
+}
+
+/* Animate the dots to incrementally appear */
+.dots::after {
+  content: ".";
+  animation: dot 1.5s infinite steps(1);
+}
+
+/* Create the incremental dot animation */
+@keyframes dot {
+  0% { content: "."; }
+  33% { content: ".."; }
+  66% { content: "..."; }
+  100% { content: "."; }
+}

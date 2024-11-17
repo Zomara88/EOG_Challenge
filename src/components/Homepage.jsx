@@ -58,36 +58,49 @@ const HomePage = () => {
       Papa.parse(file, {
         complete: (result) => {
           const fullData = result.data.slice(1); // Skip the header row
-          setFullLogs(
-            fullData.map((row) => ({
-              timestamp: row[0],
-              gasVolume: row[1] || "",
-              setpoint: row[2] || "",
-              valvePercent: row[3] || "",
-            }))
-          ); // Store the full data
-  
-          // Store the first ten rows for display
-          const displayedLogs = fullData.slice(0, 10).map((row) => ({
+
+          // Prepare data to be sent to Flask backend
+          const logsToSend = fullData.map((row) => ({
             timestamp: row[0],
             gasVolume: row[1] || "",
             setpoint: row[2] || "",
             valvePercent: row[3] || "",
           }));
-          setLogs(displayedLogs);
+
+          setFullLogs(logsToSend);  // Set full logs for further use
+          setLogs(logsToSend.slice(0, 10));  // Display first 10 logs on the frontend
+
+          // Send the parsed CSV data to Flask for processing and prediction
+          fetch("http://localhost:5000/api/predict", {
+            method: "POST",
+            headers: {
+              "Content-Type": "application/json",
+            },
+            body: JSON.stringify(logsToSend),  // Send data as JSON
+          })
+            .then((response) => response.json())
+            .then((data) => {
+              console.log("Received prediction data:", data);
+              // You can store the new data with hydrate predictions here if needed
+              // Add the hydrate prediction to the logs
+              const updatedLogs = data.logs;
+              setLogs(updatedLogs.slice(0, 10));  // Display updated logs in the table
+            })
+            .catch((error) => {
+              console.error("Error sending data to Flask:", error);
+            });
         },
         skipEmptyLines: true,
         dynamicTyping: true,
       });
     }
   };
-  
-  
 
   return (
     <div className="homepage-container">
-      <h1>Prevent Hydrate</h1>
-      <div className="input-container">
+      <h1>Calcifer</h1>
+      <p1>Please provide a data stream to analyze hydrate formation.</p1>
+      {/* <div className="input-container">
         <input
           type="text"
           placeholder="Gas Volume (m³)"
@@ -109,7 +122,7 @@ const HomePage = () => {
         <button className="water-droplet-button" onClick={handleAddEntry}>
           Enter
         </button>
-      </div>
+      </div> */}
 
       {/* Import CSV button */}
       <div className="import-csv-container">
@@ -117,7 +130,7 @@ const HomePage = () => {
           type="file"
           accept=".csv"
           onChange={handleImportCSV}
-          style={{ marginTop: "20px" }}
+          style={{ marginTop: "20px", textAlign: "center" }}
         />
       </div>
 
@@ -149,7 +162,7 @@ const HomePage = () => {
         </table>
         <div className="button-container">
           <button className="delete-entries-button" onClick={handleDeleteAllEntries}>
-            Delete Entries
+            Clear
           </button>
           <button className="show-freezes-button" onClick={handleShowFreezes}>
             Show Freezes

@@ -18,7 +18,8 @@ const Loading = () => {
   return (
     <div className="loading-container">
       <div className="spinner">
-        <p>Loading...</p>
+        <img src="./loading.GIF" alt="Loading..." className="loading-gif" />
+        <p className="loading-text">Loading<span className="dots"></span></p>
       </div>
     </div>
   );
