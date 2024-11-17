@@ -12,6 +12,12 @@ h1, p1 {
   margin: 5px; 
 }
 
+.app-logo {
+  width: 300px;  /* Adjust the size of the gif */
+  height: auto;  /* Maintain aspect ratio */
+  margin-bottom: 10px;  /* Add some space between the GIF and the text */
+}
+
 /* .input-container {
   display: flex;
   flex-direction: column;

@@ -98,7 +98,7 @@ const HomePage = () => {
 
   return (
     <div className="homepage-container">
-      <h1>Calcifer</h1>
+      <img src="./app_logo.png" className="app-logo" />
       <p1>Please provide a data stream to analyze hydrate formation.</p1>
       {/* <div className="input-container">
         <input

@@ -15,22 +15,27 @@ const PredictionPage = () => {
 
   useEffect(() => {
     const fetchHydratePrediction = async () => {
-      const response = await fetch("/api/predict", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify(logs),
-      });
-
-      if (response.ok) {
-        const data = await response.json();
-        setHydratePeriods(data.hydrate_periods);  
-      } else {
-        console.error("Failed to fetch hydrate prediction");
+      try {
+        const response = await fetch("/api/predict", {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify(logs),
+        });
+  
+        if (response.ok) {
+          const data = await response.json();
+          setLogs(data.logs);  // Update logs with hydrate predictions
+          setHydratePeriods(data.hydrate_periods);  // Update hydrate periods
+        } else {
+          console.error("Failed to fetch hydrate prediction");
+        }
+      } catch (error) {
+        console.error("Error during fetch:", error);
       }
     };
-
+  
     fetchHydratePrediction();
   }, [logs]);
 
