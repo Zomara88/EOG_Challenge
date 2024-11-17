@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
-import TableComponent from "./TableComponent";
+import "./HomePage.css";
 
 const HomePage = () => {
   const [gasVolume, setGasVolume] = useState("");
@@ -9,6 +9,7 @@ const HomePage = () => {
     const savedLogs = localStorage.getItem("logs");
     return savedLogs ? JSON.parse(savedLogs) : [];
   });
+
   const navigate = useNavigate();
 
   useEffect(() => {
@@ -27,7 +28,7 @@ const HomePage = () => {
     const timestamp = new Date().toLocaleString(); // Current device clock
     setLogs([
       ...logs,
-      { gasVolume, valvePercent, timestamp }
+      { gasVolume, valvePercent, timestamp },
     ]);
     setGasVolume("");
     setValvePercent("");
@@ -38,37 +39,69 @@ const HomePage = () => {
     setLogs(newLogs);
   };
 
-  const handleContinue = () => {
-    // Pass logs to next page or save to state management
-    navigate("/prediction", { state: { logs } });
+  const handleShowFreezes = () => {
+    navigate("/loading", { state: { redirectTo: "/prediction", logs } });
+  };  
+
+  const handleDeleteAllEntries = () => {
+    if (window.confirm("Are you sure? All data will be lost.")) {
+      setLogs([]);
+    }
   };
 
   return (
-    <div>
-      <h1>Home Page</h1>
-      <input
-        type="text"
-        placeholder="Gas Volume"
-        value={gasVolume}
-        onChange={(e) => setGasVolume(e.target.value)}
-      />
-      <input
-        type="text"
-        placeholder="Valve Percent"
-        value={valvePercent}
-        onChange={(e) => setValvePercent(e.target.value)}
-      />
-      <button onClick={handleAddEntry}>Add Entry</button>
-      <button onClick={handleContinue}>Continue</button>
+    <div className="homepage-container">
+      <h1>Prevent Hydrate</h1>
+      <div className="input-container">
+        <input
+          type="text"
+          placeholder="Gas Volume (m³)"
+          value={gasVolume}
+          onChange={(e) => setGasVolume(e.target.value)}
+        />
+        <input
+          type="text"
+          placeholder="Valve Percent (%)"
+          value={valvePercent}
+          onChange={(e) => setValvePercent(e.target.value)}
+        />
+        <button className="water-droplet-button" onClick={handleAddEntry}>
+          Enter
+        </button>
+      </div>
       <h2>Logged Data</h2>
-      <ul>
-        {logs.map((log, index) => (
-          <li key={index}>
-            {`Gas Volume: ${log.gasVolume}, Valve Percent: ${log.valvePercent}, Timestamp: ${log.timestamp}`}
-            <button onClick={() => handleDeleteEntry(index)}>Delete</button>
-          </li>
-        ))}
-      </ul>
+      <div className="table-container">
+        <table>
+          <thead>
+            <tr>
+              <th>Timestamp</th>
+              <th>Gas Volume (m³)</th>
+              <th>Valve Percent (%)</th>
+              <th>Action</th>
+            </tr>
+          </thead>
+          <tbody>
+            {logs.map((log, index) => (
+              <tr key={index}>
+                <td>{log.timestamp}</td>
+                <td>{log.gasVolume}</td>
+                <td>{log.valvePercent}</td>
+                <td>
+                  <button onClick={() => handleDeleteEntry(index)}>Delete</button>
+                </td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+        <div className="button-container">
+          <button className="delete-entries-button" onClick={handleDeleteAllEntries}>
+            Delete Entries
+          </button>
+          <button className="show-freezes-button" onClick={handleShowFreezes}>
+            Show Freezes
+          </button>
+        </div>
+      </div>
     </div>
   );
 };

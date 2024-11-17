@@ -67,7 +67,7 @@
     border-radius: 50%;
     padding: 10px 20px;
     cursor: pointer;
-    margin: 60px 0; /* Add margin for spacing */
+    margin-top: 20px; /* Adjust margin to be directly below the table */
     position: relative; /* Position below the table */
   }
   
@@ -94,6 +94,6 @@
   .water-droplet-button:hover {
     background-color: #00c;
   }
-  
+
 
 
