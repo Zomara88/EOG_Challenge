@@ -95,7 +95,9 @@ def process_logs():
     with open('processed_logs.json', 'w') as f:
         json.dump(processed_logs, f, indent=4)
 
-    return jsonify({"message": "Logs processed successfully"})
+    # Return the processed logs as the response
+    return jsonify(processed_logs)  # Sending the processed logs instead of a message
+
 
 @app.route('/api/hydrate_periods', methods=['GET'])
 def get_hydrate_periods():

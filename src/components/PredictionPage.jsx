@@ -16,7 +16,7 @@ const PredictionPage = () => {
   useEffect(() => {
     const fetchHydratePrediction = async () => {
       try {
-        const response = await fetch("/api/predict", {
+        const response = await fetch("/api/logs", {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
