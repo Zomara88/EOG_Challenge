@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
-import "./HomePage.css";
+import TableComponent from "./TableComponent";
 
 const HomePage = () => {
   const [gasVolume, setGasVolume] = useState("");
@@ -38,64 +38,37 @@ const HomePage = () => {
     setLogs(newLogs);
   };
 
-  const handleShowFreezes = () => {
+  const handleContinue = () => {
     // Pass logs to next page or save to state management
     navigate("/prediction", { state: { logs } });
   };
 
-  const handleDeleteAllEntries = () => {
-    if (window.confirm("Are you sure? All data will be lost.")) {
-      setLogs([]);
-    }
-  };
-
   return (
-    <div className="homepage-container">
-      <h1>Prevent Hydrate</h1>
-      <div className="input-container">
-        <input
-          type="text"
-          placeholder="Gas Volume (m³)"
-          value={gasVolume}
-          onChange={(e) => setGasVolume(e.target.value)}
-        />
-        <input
-          type="text"
-          placeholder="Valve Percent (%)"
-          value={valvePercent}
-          onChange={(e) => setValvePercent(e.target.value)}
-        />
-        <button className="water-droplet-button" onClick={handleAddEntry}>Enter</button>
-      </div>
+    <div>
+      <h1>Home Page</h1>
+      <input
+        type="text"
+        placeholder="Gas Volume"
+        value={gasVolume}
+        onChange={(e) => setGasVolume(e.target.value)}
+      />
+      <input
+        type="text"
+        placeholder="Valve Percent"
+        value={valvePercent}
+        onChange={(e) => setValvePercent(e.target.value)}
+      />
+      <button onClick={handleAddEntry}>Add Entry</button>
+      <button onClick={handleContinue}>Continue</button>
       <h2>Logged Data</h2>
-      <div className="table-container">
-        <table>
-          <thead>
-            <tr>
-              <th>Timestamp</th>
-              <th>Gas Volume (m³)</th>
-              <th>Valve Percent (%)</th>
-              <th>Action</th>
-            </tr>
-          </thead>
-          <tbody>
-            {logs.map((log, index) => (
-              <tr key={index}>
-                <td>{log.timestamp}</td>
-                <td>{log.gasVolume}</td>
-                <td>{log.valvePercent}</td>
-                <td>
-                  <button onClick={() => handleDeleteEntry(index)}>Delete</button>
-                </td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
-        <div className="button-container">
-          <button className="delete-entries-button" onClick={handleDeleteAllEntries}>Delete Entries</button>
-          <button className="show-freezes-button" onClick={handleShowFreezes}>Show Freezes</button>
-        </div>
-      </div>
+      <ul>
+        {logs.map((log, index) => (
+          <li key={index}>
+            {`Gas Volume: ${log.gasVolume}, Valve Percent: ${log.valvePercent}, Timestamp: ${log.timestamp}`}
+            <button onClick={() => handleDeleteEntry(index)}>Delete</button>
+          </li>
+        ))}
+      </ul>
     </div>
   );
 };

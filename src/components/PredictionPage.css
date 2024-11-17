@@ -1,0 +1,99 @@
+.predictionpage-container { 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start; /* Shift fields towards the top */
+    height: 100vh;
+    padding: 20px;
+    position: relative;
+  }
+  
+  .header-container {
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Center the header */
+    width: 100%;
+    margin-bottom: 20px;
+    position: relative;
+  }
+  
+  .header-title {
+    margin-right: 0px; /* Add space between the header and the button */
+  }
+  
+  .back-home-button {
+    position: absolute; /* Position relative to the container */
+    top: 20px;
+    left: 20px; /* Move button to the left side of the header */
+    background-color: #00f;
+    color: #fff;
+    border: none;
+    border-radius: 50%;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .back-home-button:hover {
+    background-color: #00c;
+  }
+  
+  .table-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 80%;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  
+  .get-prediction-button {
+    background-color: #00f;
+    color: #fff;
+    border: none;
+    border-radius: 50%;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin: 60px 0; /* Add margin for spacing */
+    position: relative; /* Position below the table */
+  }
+  
+  .get-prediction-button:hover {
+    background-color: #00c;
+  }
+  
+  .button-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px; /* Add spacing between buttons */
+    margin-bottom: 20px;
+  }
+  
+  .water-droplet-button {
+    background-color: #00f;
+    color: #fff;
+    border: none;
+    border-radius: 50%;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .water-droplet-button:hover {
+    background-color: #00c;
+  }
+  
+
+
