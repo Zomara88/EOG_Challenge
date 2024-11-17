@@ -6,11 +6,11 @@ const Loading = () => {
   const navigate = useNavigate();
   const location = useLocation();
   const redirectTo = location.state?.redirectTo || "/"; // Defaults to home if not specified
-  const logs = location.state?.logs || [];
+  const logs = location.state?.fullLogs || [];
 
   useEffect(() => {
     const timer = setTimeout(() => {
-      navigate(redirectTo, { state: { logs } });
+      navigate(redirectTo, { state: { fullLogs: logs } });
     }, 3000); // 3 seconds delay
     return () => clearTimeout(timer);
   }, [navigate, redirectTo, logs]);

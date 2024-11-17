@@ -5,7 +5,7 @@ import "./PredictionPage.css";
 const PredictionPage = () => {
   const location = useLocation();
   const navigate = useNavigate();
-  const logs = location.state?.logs || [];
+  const logs = location.state?.fullLogs || [];
 
   const handleGetPrediction = () => {
     console.log("Predicting based on logs:", logs);
@@ -29,8 +29,9 @@ const PredictionPage = () => {
         <table>
           <thead>
             <tr>
-              <th>Timestamp</th>
+            <th>Timestamp</th>
               <th>Gas Volume (m³)</th>
+              <th>Set Point (m³)</th>
               <th>Valve Percent (%)</th>
             </tr>
           </thead>
@@ -39,6 +40,7 @@ const PredictionPage = () => {
               <tr key={index}>
                 <td>{log.timestamp}</td>
                 <td>{log.gasVolume}</td>
+                <td>{log.setpoint}</td>
                 <td>{log.valvePercent}</td>
               </tr>
             ))}
